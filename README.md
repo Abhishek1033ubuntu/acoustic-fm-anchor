@@ -18,3 +18,11 @@ The architecture decouples audio delivery into two specialized mediums:
 ## 2. Dynamic 2-User Couch Profile Physics Simulation (PoC)
 
 To guarantee pristine phase alignment across multi-user sitting profiles, the digital signal processor (DSP) dynamically computes path delays between the corner subwoofer and the wall-reflected parametric beams.
+
+The core physics validation model is maintained separately in [`simulation.py`](./simulation.py).
+
+### How to Run the Simulation
+Ensure you have `numpy` installed, then run the script directly from your terminal:
+
+```bash
+python simulation.py
