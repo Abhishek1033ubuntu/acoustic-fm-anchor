@@ -1,7 +1,8 @@
 # acoustic-fm-anchor
 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21685956.svg)](https://doi.org/10.5281/zenodo.21685956) ![Status](https://img.shields.io/badge/Status-Research_POC-orange)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21685956.svg)](https://doi.org/10.5281/zenodo.21685956)
+![Status](https://img.shields.io/badge/Status-Research_POC-orange)
 
 ---
 # Parametric FM Spatial Audio System & Automatic Time-Alignment Matrix
